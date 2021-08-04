@@ -1,3 +1,4 @@
+[dd_devops_trial_20210804203342.log](https://github.com/github/docs/files/6933681/dd_devops_trial_20210804203342.log)
 ---
 title: Managing your theme settings
 intro: 'You can manage how {% data variables.product.product_name %} looks to you by setting a theme preference that either follows your system settings or always uses a light or dark mode.'
